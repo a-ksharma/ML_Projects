@@ -27,7 +27,7 @@ The project uses a file named `student_scores.csv`, which contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-score-analysis.git
+   git clone https://github.com/a-ksharma/ML_Projects.git
    cd student-score-analysis
 
 2. Install dependencies:
