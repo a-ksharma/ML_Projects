@@ -16,7 +16,7 @@ The dataset used contains 1,000 rows of integer values with two input features a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/logistic-regression-model.git
+    git clone https://github.com/a-ksharma/ML_Projects.git
     cd logistic-regression-model
     ```
 
